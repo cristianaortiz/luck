@@ -36,6 +36,8 @@ README.md            ← you are here
 
 Extends Assembly Theory (Cronin & Marshall, 2021) with adjacent work from dissipative adaptation, the free energy principle, niche construction theory, and the adjacent possible. Details and citations are in the skill file.
 
+[*The Keeper*](https://keeperfable.com) explores these dynamics as fable.
+
 ## Author
 
 [soleio](https://github.com/soleio)
